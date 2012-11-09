@@ -2,6 +2,6 @@ os-installer -> packstack
 ============
 
 Project renamed to packstack
-https://github.com/derekhiggins/packstack
+https://github.com/fedora-openstack/packstack
 
-git://github.com/derekhiggins/packstack.git
+git://github.com/fedora-openstack/packstack.git
